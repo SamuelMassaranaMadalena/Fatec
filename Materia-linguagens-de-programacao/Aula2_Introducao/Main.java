@@ -1,4 +1,4 @@
-package Aula2;
+package Aula2_Introducao;
 public class Main {
     public static void main(String[] args){
         String msg = "Hello World!";
