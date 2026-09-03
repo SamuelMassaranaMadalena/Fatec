@@ -1,4 +1,4 @@
-package Aula4.funcoes_matematicas;
+package Aula4.a_funcoes_matematicas;
 
 public class Main {
     public static void main(String[] args){
