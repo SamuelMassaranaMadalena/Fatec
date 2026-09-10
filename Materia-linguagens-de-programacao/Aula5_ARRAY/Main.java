@@ -1,4 +1,4 @@
-package Aula_5_ARRAY;
+package Aula5_ARRAY;
 
 public class Main {
     public static void main(String[] args){
