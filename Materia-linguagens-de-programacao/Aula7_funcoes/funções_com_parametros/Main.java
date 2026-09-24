@@ -1,4 +1,4 @@
-package Aula7.funções_com_parametros;
+package Aula7_funcoes.funções_com_parametros;
 
 public class Main {
     public static void main(String[] args){

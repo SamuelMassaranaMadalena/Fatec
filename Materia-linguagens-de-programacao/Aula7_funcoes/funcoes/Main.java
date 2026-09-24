@@ -1,4 +1,4 @@
-package Aula7.funcoes;
+package Aula7_funcoes.funcoes;
 
 public class Main {
     public static void main(String[] args){

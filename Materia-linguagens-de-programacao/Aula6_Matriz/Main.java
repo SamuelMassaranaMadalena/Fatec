@@ -1,4 +1,4 @@
-package Aula6;
+package Aula6_Matriz;
 
 public class Main {
     public static void main(String[] args){

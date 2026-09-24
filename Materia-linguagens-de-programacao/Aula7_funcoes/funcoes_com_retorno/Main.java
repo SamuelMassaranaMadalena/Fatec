@@ -1,4 +1,4 @@
-package Aula7.funcoes_com_retorno;
+package Aula7_funcoes.funcoes_com_retorno;
 
 public class Main {
     public static void main(String[] args){
