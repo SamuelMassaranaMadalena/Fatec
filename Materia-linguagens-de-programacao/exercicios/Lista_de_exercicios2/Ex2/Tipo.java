@@ -1,34 +1,16 @@
 package exercicios.Lista_de_exercicios2.Ex2;
 
 public class Tipo {
-    static String  estiloUm = "Guerreiro";
-    static String estiloDois = "Arqueiro";
-    static String estiloTres = "Clerico";
-    static String racaUm = "Humano";
-    static String racaDois = "Elfo";
-    static String racaTres = "Anao";
-    String raca;
-    String estilo;
+    String tipo;
 
-    public Tipo (String raca, String estilo){
-        setRaca(raca);
-        setEstilo(estilo);
+    public Tipo (String tipo){
+        setTipo(tipo);
     }
     
-    public void setRaca(String raca) {
-        if(raca == racaUm || raca == racaDois || raca == racaTres){
-            this.raca = raca;
-        }
+    public void setTipo(String tipo) {
+        this.tipo = tipo;
     }
-    public String getRaca() {
-        return raca;
-    }
-    public void setEstilo(String estilo) {
-        if(estilo == estiloUm || estilo == estiloDois || estilo == estiloTres){
-            this.estilo = estilo;
-        }
-    }
-    public String getEstilo() {
-        return estilo;
+    public String getTipo() {
+        return tipo;
     }
 }
